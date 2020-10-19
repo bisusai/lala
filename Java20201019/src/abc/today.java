@@ -7,6 +7,8 @@ public class today {
 		System.out.println("hello world");
 		
 		System.out.println("æ»≥Á«œººø‰!!!");
+		
+		System.out.println("§±§±§±§±");
 
 	}
 
